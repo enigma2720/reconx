@@ -168,6 +168,7 @@ ReconX Elite demonstrates:
 * WhatWeb
 * VirusTotal API
 * Shodan API
+* Google Dorking
 
 ---
 
