@@ -136,12 +136,6 @@ Open Ports: 20
 
 ---
 
-## 📸 Demo
-
-![ReconX Screenshot](assets/screenshot.png)
-
----
-
 ## ⚠️ Legal Disclaimer
 
 This tool is strictly for **educational purposes and authorized penetration testing only**.
