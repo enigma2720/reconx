@@ -1,5 +1,12 @@
 # 🔍 ReconX - Advanced Bash Recon Toolkit
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-Scripting-green">
+  <img src="https://img.shields.io/badge/Security-Recon-red">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+  <img src="https://img.shields.io/badge/License-MIT-blue">
+</p>
+
 ## Overview
 
 ReconX is a modular Bash-based reconnaissance toolkit built for ethical hackers and penetration testers.
