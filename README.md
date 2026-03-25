@@ -24,7 +24,7 @@ Recon → Probe → Scan → Analyze → Report
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/reconx.git
+git clone https://github.com/enigma2720/reconx.git
 cd reconx
 chmod +x reconx.sh
 ```
